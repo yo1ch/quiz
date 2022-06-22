@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="answer1">Ответ 1</string>
+    <string name="answer2">Ответ 2</string>
+    <string name="answer3">Ответ 3</string>
+    <string name="answer4">Ответ 4</string>
+    <string name="question">Вопрос</string>
+    <string name="question_from">Вопрос: x/10</string>
+    <string name="result">Правильных: 0 \n Неправильных: 0</string>
+    <string name="results">Результаты:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
